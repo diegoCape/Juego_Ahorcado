@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Funciones {
 
-	public static void pintaMuÃ±eco(int vidas) {
+	public static void pintaMuñeco(int vidas) {
 		
 		switch (vidas) {
 		

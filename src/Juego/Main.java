@@ -29,7 +29,7 @@ public class Main {
 			
 			Funciones.dibujarAciertosFallos(vFallos, vAciertos);
 			
-			Funciones.pintaMuÃ±eco(vidas);
+			Funciones.pintaMuñeco(vidas);
 			
 			
 		}while(vidas>0 && Funciones.comprobarVictoria(vAciertos)==false);
